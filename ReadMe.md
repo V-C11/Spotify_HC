@@ -1,0 +1,4 @@
+- THis is Simple(Basic) Spotify Clone
+- Technology Used in this :
+    - Html
+    - Css
